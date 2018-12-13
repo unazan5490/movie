@@ -5,6 +5,6 @@ h1{
 }
 .image{
   width:10px;
-  height:20px;
-  margin: 0 auto;
+  margin-left: 800px;
+  /*margin: 0 auto;*/
 }
